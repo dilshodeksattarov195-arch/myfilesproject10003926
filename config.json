@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authvync",
+        "uuid": 12841946,
+        "checksum": "uto809"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
